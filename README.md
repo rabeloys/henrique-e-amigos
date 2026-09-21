@@ -1,2 +1,1 @@
-# henrique-e-amigos
-amigos do henrique
+Se você tá lendo isso você é amigo do Henrique
